@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stone",
+  "category": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": "stone_stairs"
+  },
+  "result": {
+    "id": "minecraft:stone",
+    "count": 3
+  }
+}
