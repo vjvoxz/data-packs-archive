@@ -1,7 +1,0 @@
-{
-  "pack": {
-    "min_format": [107, 1],
-    "max_format": [107, 1],
-    "description": "§6End Ship Beacons§r\n§f§oBeacons found in End Ships, like in the 1.9 Snapshot (15w31a)"
-  }
-}
