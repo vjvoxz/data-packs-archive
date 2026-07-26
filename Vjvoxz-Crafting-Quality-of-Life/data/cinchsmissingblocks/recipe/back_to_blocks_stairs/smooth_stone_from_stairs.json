@@ -7,10 +7,10 @@
     "##"
   ],
   "key": {
-    "#": "smooth_stone_stairs"
+    "#": "cinchsmissingblocks:smooth_stone_stairs"
   },
   "result": {
-    "id": "cinchsmissingblocks:smooth_stone",
+    "id": "minecraft:smooth_stone",
     "count": 3
   }
 }
