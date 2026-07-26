@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cactus_flower",
+    "minecraft:bone_meal",
+    [
+      "minecraft:rotten_flesh",
+      "minecraft:poisonous_potato"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:cactus_flower",
+    "count": 3
+  }
+}

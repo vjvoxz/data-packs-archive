@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wither_rose",
+    "minecraft:bone_meal",
+    [
+      "minecraft:rotten_flesh",
+      "minecraft:poisonous_potato"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:wither_rose",
+    "count": 3
+  }
+}

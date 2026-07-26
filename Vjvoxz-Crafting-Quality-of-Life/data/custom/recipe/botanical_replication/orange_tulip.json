@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:orange_tulip",
+    "minecraft:bone_meal",
+    [
+      "minecraft:rotten_flesh",
+      "minecraft:poisonous_potato"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:orange_tulip",
+    "count": 3
+  }
+}
