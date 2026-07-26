@@ -23,6 +23,7 @@ This document contains a structured directory hierarchy and classification of th
 
 ## 1. Overview
 This data pack provides extensive customization for crafting mechanics:
+* **Cinchmissingblocks Namespace:** Modifies and rebalances Cinchmissingblocks recipes for stairs.
 * **Custom Namespace:** Adds new crafting behaviors, plant replications, dye utilities, and uncrafting/unpacking mechanics.
 * **Minecraft Namespace:** Modifies and rebalances vanilla recipes (such as stairs, trapdoors, and wood stripping) to provide higher yields or better consistency.
 
@@ -254,6 +255,7 @@ Adds direct crafting recipes for previously uncraftable vanilla blocks/items, or
 * `red_mushroom_block.json`
 * `red_sand.json`
 * `red_sandstone.json`
+* `shroomlight.json`
 * `snow_block.json`
 * `soul_sand.json`
 * `trident.json`
