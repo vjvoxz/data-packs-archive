@@ -1,6 +1,6 @@
 # Data Packs Archive by vjvoxz
 
-The idea is to keep an archive of the originals data packs from members of the community and personal projects, now out-of-date by the latest release of Minecraft™, make the correspondant changes and updates to keep functionally. This is a personal project that I0m trying to keep working for the time.
+The idea is to keep an archive of the originals data packs from members of the community and personal projects, now out-of-date by the latest release of Minecraft™, make the correspondant changes and updates to keep functionally. This is a personal project that I'm trying to keep working for the time.
 
 - [x] July 2026
 - [ ] August 2026
@@ -13,7 +13,7 @@ The `main` branch stores all `data/minecraft/...` files for every data pack. The
 
 ## The `JE-XX.X+DP-v###` branches
 
-Each branch stores all `data` files from the `main` branch AND the metadata (pack.mcmeta and pack.png) necesary for each version of Minecraft™ Java Edition.
+Each branch stores a copy of the `data` files from the `main` branch AND the metadata (pack.mcmeta and pack.png) necesary for each version of Minecraft™ Java Edition, ready to be downloaded.
 
 Supported Versions:
 * Minecraft™ Java Edition 26.2 "Chaos Cubed"
@@ -23,4 +23,5 @@ Supported Versions:
 * Minecraft™ Java Edition 1.21.6+ "Chase the Skies" [^1]
 
 **This project is not affiliated with Minecraft™, Mojang™ or Microsoft™.**
-[^1](Only the Minor Hotfixes 1.21.7 and 1.21.8)
+
+[^1](Only the Minor Hotfixes 1.21.7 and 1.21.8, 1.21.6 is NOT included)
