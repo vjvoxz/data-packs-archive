@@ -13,7 +13,6 @@ This document contains a structured directory hierarchy and classification of th
     * [back_to_blocks_stairs](#back_to_blocks_stairs)
     * [botanical_replication](#botanical_replication)
     * [craftable](#craftable)
-    * [stonecutter](#stonecutter)
     * [universal_dyeing](#universal_dyeing)
     * [unpackable](#unpackable)
 5. [Minecraft Namespace (`minecraft`)](#5-minecraft-namespace-minecraft)
@@ -52,8 +51,6 @@ recipes/
 │       ├── botanical_replication/
 
 │       ├── craftable/
-
-│       ├── stonecutter/
 
 │       ├── universal_dyeing/
 
@@ -374,19 +371,6 @@ Adds direct crafting recipes for previously uncraftable vanilla blocks/items, or
 * `tuff.json`
 * `warped_nylium.json`
 
-### stonecutter
-
-Introduces stonecutter recipes for blocks that typically require normal table crafting.
-
-* `cobbled_deepslate.json`
-* `cobbled_deepslate_slab.json`
-* `cobbled_deepslate_stairs.json`
-* `cobbled_deepslate_wall.json`
-* `cobblestone.json`
-* `cobblestone_slab.json`
-* `cobblestone_stairs.json`
-* `cobblestone_wall.json`
-
 ### universal_dyeing
 
 Enables changing colors dynamically between various blocks (concrete, stained glass, terracotta, etc.) using dyes.
@@ -397,8 +381,6 @@ Enables changing colors dynamically between various blocks (concrete, stained gl
 * `stained_glass`
 * `stained_glass_pane`
 * `terracotta`
-
-
 
 ### unpackable
 
