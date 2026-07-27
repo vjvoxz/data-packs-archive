@@ -1,4 +1,4 @@
-# Minecraft Custom Data Pack Recipe Hierarchy
+# Minecraft Custom Data Pack Recipe Hierarchy **MCJE 1.21.8**
 
 This document contains a structured directory hierarchy and classification of the recipes defined in the data pack, split into the `cinchmissingblocks`, `custom` and `minecraft` namespaces.
 
