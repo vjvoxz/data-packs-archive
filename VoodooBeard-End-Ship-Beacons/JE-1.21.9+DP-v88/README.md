@@ -12,8 +12,6 @@ All data files related to the minecraft structure are ©2025+ by VoodooBeard / M
 
 ---
 
-All metadata files are under [MIT Licence](https://github.com/vjvoxz/MIT-Licence) 
-
-Vjvoxz - MMXXVI
+All metadata files are under [MIT Licence](https://github.com/vjvoxz/MIT-Licence) by Vjvoxz - MMXXVI
 
 [^1]: Data Pack version 88 for Java Edition 1.21.9 and 1.21.10
