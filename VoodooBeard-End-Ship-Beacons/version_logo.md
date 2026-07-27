@@ -1,5 +1,7 @@
 # https://www.mcgic.com/font/
 
+<img width="1080" height="1080" alt="Beacon_26-2-mcgic" src="https://github.com/user-attachments/assets/a2d421a0-71ad-4355-9afd-6535f88dd79a" />
+
 Export size: 2x
 
 ## Style tab
