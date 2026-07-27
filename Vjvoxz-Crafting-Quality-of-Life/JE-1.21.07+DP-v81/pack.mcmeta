@@ -1,7 +1,8 @@
 {
   "pack": {
+	"pack_format": 48
     "min_format": [81, 0],
-    "max_format": [107, 1],
+    "max_format": [81, 0],
     "description": {
 		"text": "Crafting: Quality of Life by Vjvoxz",
 		"type": "text",
