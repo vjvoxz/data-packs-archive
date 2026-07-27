@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:snow_brick_slab"
+  },
+  "result": {
+    "id": "cinchsmissingblocks:snow_bricks",
+    "count": 1
+  }
+}

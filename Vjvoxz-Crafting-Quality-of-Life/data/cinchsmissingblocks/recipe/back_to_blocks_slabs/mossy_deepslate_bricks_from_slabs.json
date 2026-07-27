@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:mossy_deepslate_brick_slab"
+  },
+  "result": {
+    "id": "cinchsmissingblocks:mossy_deepslate_bricks",
+    "count": 1
+  }
+}

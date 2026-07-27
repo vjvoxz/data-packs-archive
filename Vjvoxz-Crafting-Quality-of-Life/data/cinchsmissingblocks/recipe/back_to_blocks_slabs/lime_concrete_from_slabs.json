@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:lime_concrete_slab"
+  },
+  "result": {
+    "id": "minecraft:lime_concrete",
+    "count": 1
+  }
+}

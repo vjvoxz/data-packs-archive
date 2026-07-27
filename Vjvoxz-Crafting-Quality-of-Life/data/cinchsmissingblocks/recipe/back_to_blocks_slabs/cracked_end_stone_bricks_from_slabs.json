@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:cracked_end_stone_brick_slab"
+  },
+  "result": {
+    "id": "cinchsmissingblocks:cracked_end_stone_bricks",
+    "count": 1
+  }
+}

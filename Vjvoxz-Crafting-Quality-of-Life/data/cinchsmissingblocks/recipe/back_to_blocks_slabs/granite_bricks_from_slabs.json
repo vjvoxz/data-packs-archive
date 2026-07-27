@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:granite_brick_slab"
+  },
+  "result": {
+    "id": "cinchsmissingblocks:granite_bricks",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:packed_mud_slab"
+  },
+  "result": {
+    "id": "minecraft:packed_mud",
+    "count": 1
+  }
+}

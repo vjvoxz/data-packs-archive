@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:dripstone_brick_slab"
+  },
+  "result": {
+    "id": "cinchsmissingblocks:dripstone_bricks",
+    "count": 1
+  }
+}

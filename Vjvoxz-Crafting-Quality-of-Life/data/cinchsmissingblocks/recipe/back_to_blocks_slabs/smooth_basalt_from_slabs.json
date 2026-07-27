@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:smooth_basalt_slab"
+  },
+  "result": {
+    "id": "minecraft:smooth_basalt",
+    "count": 1
+  }
+}

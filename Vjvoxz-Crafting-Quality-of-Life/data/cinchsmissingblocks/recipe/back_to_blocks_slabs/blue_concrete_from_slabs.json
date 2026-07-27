@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "cinchsmissingblocks:blue_concrete_slab"
+  },
+  "result": {
+    "id": "minecraft:blue_concrete",
+    "count": 1
+  }
+}
