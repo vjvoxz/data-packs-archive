@@ -23,6 +23,16 @@ Supported Versions:
 
 ---
 
+## Tools
+
+https://minecraft.wiki/w/Pack.mcmeta#
+
+https://misode.github.io/
+
+https://www.mcgic.com/text/
+
+## About the project
+
 This is a personal project for learning about data packs, JSON files, MCMETA files, Markdown files and Git projects. 
 
 I'm trying to keep working for the time, keeping track:
