@@ -4,12 +4,12 @@
 		"max_format": [101, 1],
 		"description": [
 			{
-				"text": "Title_here",
+				"text": "Stonecutting: Quality of Life.",
 				"color": "gold",
 				"bold": true
 			},
 			{
-				"text": "\nDescription_here",
+				"text": "\nStone and Deepslate can now be directly crafted into its cobblestone, cobbled, polished, brick, and tile variants in the stonecutter.",
 				"color": "gray",
 				"italic": true,
 				"bold": false
