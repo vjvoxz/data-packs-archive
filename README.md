@@ -42,4 +42,4 @@ I'm trying to keep working for the time, keeping track:
 - [ ] September 2026
 - [ ] October 2026
 
-
+[MIT License](https://github.com/vjvoxz/MIT-License)
