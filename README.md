@@ -6,9 +6,9 @@ The idea is to keep an archive of the originals data packs from members of the c
 
 The `main` branch stores all `data/minecraft/...` files for every data pack. The idea is to make all modifications and updates inside this branch. 
 
-## The `JE-XX.X+DP-v###` branches 
+## The `JE-XX.X+DP-v###` tags 
 
-Each branch stores a copy of the `data` files from the `main` branch AND the metadata (pack.mcmeta and pack.png) necesary for each version of Minecraft™ Java Edition, ready to be downloaded. 
+Each tag stores a copy of the `data` files from the `main` branch AND the metadata (pack.mcmeta and pack.png) necesary for each version of Minecraft™ Java Edition, ready to be downloaded. 
 
 Supported Versions:
 * Minecraft™ Java Edition 26.2 "Chaos Cubed"
