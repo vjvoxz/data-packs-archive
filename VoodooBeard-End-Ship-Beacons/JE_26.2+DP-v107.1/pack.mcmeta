@@ -1,7 +1,39 @@
 {
-  "pack": {
-    "min_format": [107, 1],
-    "max_format": [107, 1],
-    "description": "§6End Ship Beacons§r\n§f§oBeacons found in End Ships, like in the 1.9 Snapshot (15w31a)"
-  }
+	"pack": {
+		"min_format": [107, 1],
+		"max_format": [107, 1],
+		"description": [
+			{
+				"text": "End Ship Beacons v.1.9.1",
+				"color": "gold",
+				"bold": true
+			},
+			{
+				"text": "\nBeacons found in End Ships, like in the 1.9 Snapshot (15w31a)",
+				"color": "gray",
+				"italic": true,
+				"bold": false
+			},
+			{
+				"text": "\nCreator",
+				"color": "white",
+				"underlined": true,
+				"bold": false
+			},
+			{
+				"text": ": Voodoobeard",
+				"color": "white"
+			},
+			{
+				"text": "\nMaintainer",
+				"color": "blue",
+				"underlined": true,
+				"bold": false
+			},
+			{
+				"text": ": Vjvoxz",
+				"color": "blue"
+			}
+		]
+	}
 }
