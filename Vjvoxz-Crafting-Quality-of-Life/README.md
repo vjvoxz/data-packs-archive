@@ -23,7 +23,7 @@ This document contains a structured directory hierarchy and classification of th
 
 ## 1. Overview
 This data pack provides extensive customization for crafting mechanics:
-* **Cinchmissingblocks Namespace:** Modifies and rebalances Cinchmissingblocks recipes for stairs.
+* **Cinchmissingblocks Namespace:** Modifies and rebalances Cinchmissingblocks recipes for slabs and stairs.
 * **Custom Namespace:** Adds new crafting behaviors, plant replications, dye utilities, and uncrafting/unpacking mechanics.
 * **Minecraft Namespace:** Modifies and rebalances vanilla recipes (such as stairs, trapdoors, and wood stripping) to provide higher yields or better consistency.
 
@@ -32,27 +32,41 @@ This data pack provides extensive customization for crafting mechanics:
 ## 2. Directory Tree Hierarchy
 
 recipes/
+
 ├── cinchmissingblocks/
+
 │   └── recipe/
+
 │       ├── back_to_blocks_slabs/
+
 │       ├── back_to_blocks_stairs/
+
 ├── custom/
+
 │   └── recipe/
+
 │       ├── back_to_blocks_slabs/
+
 │       ├── back_to_blocks_stairs/
+
 │       ├── botanical_replication/
+
 │       ├── craftable/
+
 │       ├── stonecutter/
+
 │       ├── universal_dyeing/
+
 │       └── unpackable/
+
 └── minecraft/
-    └── recipe/
+    └── recipe/   
 
 ---
 
 ## 3. Cinchmissingblocks Namespace (`cinchmissingblocks`)
 
-The `cinchmissingblocks` namespace modifies baseline vanilla parameters (such as increasing stair outputs to match modern recipe standards).
+The `cinchmissingblocks` namespace follows the 'back_to_block_slabs', 'back_to_blocks_stairs and 'more_slabs' and 'more stairs' recipes to expand and rebalance the output for the new blocks.
 
 ### back_to_blocks_slabs
 
