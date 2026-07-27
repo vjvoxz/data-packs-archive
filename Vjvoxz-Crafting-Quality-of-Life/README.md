@@ -1,6 +1,6 @@
 # Minecraft Custom Data Pack Recipe Hierarchy
 
-This document contains a structured directory hierarchy and classification of the recipes defined in the data pack, split into the `custom` and `minecraft` namespaces.
+This document contains a structured directory hierarchy and classification of the recipes defined in the data pack, split into the `cinchmissingblocks`, `custom` and `minecraft` namespaces.
 
 ## Table of Contents
 1. [Overview](#1-overview)
