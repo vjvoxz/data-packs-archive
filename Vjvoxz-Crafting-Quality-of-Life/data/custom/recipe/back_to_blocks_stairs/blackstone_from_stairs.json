@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "blackstone",
+  "category": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": "minecraft:blackstone_stairs"
+  },
+  "result": {
+    "id": "minecraft:blackstone",
+    "count": 3
+  }
+}
