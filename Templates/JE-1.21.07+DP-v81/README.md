@@ -5,12 +5,12 @@
 		"pack_format": 81,
 		"description": [
 			{
-				"text": "'Title'",
+				"text": "'Title_here_vX.X.X'",
 				"color": "gold",
 				"bold": true
 			},
 			{
-				"text": "\n'Description here'",
+				"text": "\n'Description_here'",
 				"color": "gray",
 				"italic": true,
 				"bold": false
