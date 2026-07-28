@@ -1,5 +1,5 @@
 # Data Packs Archive by vjvoxz
-Last updated: {{LAST_UPDATED}}
+Last updated: 2026-07-28
 
 ## Important Notice for the archive
 Since these are out-of-date works from various creators, I need to stay here as a policy:
