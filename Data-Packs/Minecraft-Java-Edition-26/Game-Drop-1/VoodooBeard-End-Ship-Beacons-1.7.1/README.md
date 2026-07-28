@@ -1,5 +1,7 @@
 # End Ship Beacons [^1]
 
+<img width="256" height="256" alt="pack" src="https://github.com/user-attachments/assets/1bb78ccb-82af-4445-85fe-dec49582822d" />
+
 Back in my day, or 15w31a at least, beacons could be found in End Ships.
 
 Relive those crazy days once more!
