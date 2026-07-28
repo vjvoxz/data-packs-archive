@@ -1,8 +1,8 @@
 # https://www.mcgic.com/font/
 
-<img width="400" height="400" alt="Beacon_26-2-mcgic" src="https://github.com/user-attachments/assets/a2d421a0-71ad-4355-9afd-6535f88dd79a" />
+<img width="256" height="256" alt="Beacon_26-2-mcgic" src="https://github.com/user-attachments/assets/a2d421a0-71ad-4355-9afd-6535f88dd79a" />
 
-<img width="400" height="400" alt="Beacon-26 2" src="https://github.com/user-attachments/assets/1984827d-439e-4a9a-9c38-c9cf0e5dbcd0" />
+<img width="256" height="256" alt="Beacon-26 2" src="https://github.com/user-attachments/assets/1984827d-439e-4a9a-9c38-c9cf0e5dbcd0" />
 
 Export size: 2x
 
