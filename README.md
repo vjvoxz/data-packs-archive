@@ -1,5 +1,6 @@
 # Data Packs Archive by vjvoxz
 Last updated: {{LAST_UPDATED}}
+![GitHub last commit](https://img.shields.io/github/last-commit/vjvoxz/data-packs-archive)
 
 ## Important Notice for the archive
 Since these are out-of-date works from various creators, I need to stay here as a policy:
@@ -54,13 +55,6 @@ I'm trying to keep working for the time, keeping track:
 - [ ] August 2026
 - [ ] September 2026
 - [ ] October 2026
-
-
-![Last commit](https://badgen.net/github/last-commit/vjvoxz/data-packs-archive/main)
-
-![Commit date](https://badgen.net/github/commit-date/vjvoxz/data-packs-archive/main)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/vjvoxz/data-packs-archive)
 
 [MIT License](https://github.com/vjvoxz/MIT-License)
 
