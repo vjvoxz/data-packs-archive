@@ -36,7 +36,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Update README with UTC date (YYYY-MM-DD)
         run: |
