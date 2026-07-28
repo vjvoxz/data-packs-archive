@@ -6,7 +6,7 @@
 		"max_format": [94, 1],
 		"description": [
 			{
-				"text": "'Title_here'",
+				"text": "'Title_here_vX.X.X'",
 				"color": "gold",
 				"bold": true
 			},
