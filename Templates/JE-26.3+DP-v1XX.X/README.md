@@ -1,4 +1,4 @@
-# pack_format_v107_1
+# pack_format_v1XX_X
 
 ```{
 	"pack": {
