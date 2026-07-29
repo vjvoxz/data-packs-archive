@@ -2,7 +2,7 @@
 
 <img width="300" height="300" alt="Stonecutter_07" src="https://github.com/user-attachments/assets/0666d414-7d25-49de-8c38-f6c5c8cba28b" />
 
-**Note**: This feature is for backwards compatibility, in Minecraft™ Java Edition 26.1+ "Tiny Takeover" this recipes have been added.
+**Note**: This feature is for backwards compatibility, in [Minecraft™ Java Edition 26.1+](https://minecraft.wiki/w/Java_Edition_26.1#) "Tiny Takeover" this recipes have been added.
 
 Introduces to the [stonecutter](https://minecraft.wiki/w/Stonecutter) recipes for blocks that typically require normal table crafting.
 
