@@ -1,6 +1,8 @@
-# Stonecutting: Quality of Life
+# Stonecutting: Quality of Life[^1]
 
-<img width="300" height="300" alt="Stonecutter_07" src="https://github.com/user-attachments/assets/0666d414-7d25-49de-8c38-f6c5c8cba28b" />
+[^1]: Data Pack version 88 for Java Edition 1.21.9 and 1.21.10
+
+<img width="256" height="256" alt="pack" src="https://github.com/user-attachments/assets/8771c7a3-a091-41db-8364-c74c97614c4f" />
 
 **Note**: This feature is for backwards compatibility, in [Minecraft™ Java Edition 26.1+](https://minecraft.wiki/w/Java_Edition_26.1#) "Tiny Takeover" this recipes have been added.
 
