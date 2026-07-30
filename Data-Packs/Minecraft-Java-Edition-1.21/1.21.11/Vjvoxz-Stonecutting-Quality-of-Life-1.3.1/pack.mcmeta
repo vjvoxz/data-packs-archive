@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 81,
+    "description": [
+      {
+        "text": "Stonecutting: Quality of Life v1.3.1",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": "\nStone and Deepslate can now be directly crafted into its cobblestone, cobbled, polished, brick, and tile variants in the stonecutter.",
+        "color": "gray",
+        "italic": true,
+        "bold": false
+      },
+      {
+        "text": "\nCreator",
+        "color": "white",
+        "underlined": true,
+        "bold": false
+      },
+      {
+        "text": ": 'Vjvoxz'",
+        "color": "white"
+      }
+    ]
+  }
+}
