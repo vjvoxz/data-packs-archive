@@ -13,23 +13,23 @@ Introduces to the [stonecutter](https://minecraft.wiki/w/Stonecutter) recipes fo
 
 ## Recipes added
 
- * `cobbled_deepslate.json`
- * `cobbled_deepslate_slab.json`
- * `cobbled_deepslate_stairs.json`
- * `cobbled_deepslate_wall.json`
- * `cobblestone.json`
- * `cobblestone_slab.json`
- * `cobblestone_stairs.json`
- * `cobblestone_wall.json`
- * `deepslate_brick_slab.json`
- * `deepslate_brick_stairs.json`
- * `deepslate_brick_wall.json`
- * `deepslate_bricks.json`
- * `deepslate_tile_slab.json`
- * `deepslate_tile_stairs.json`
- * `deepslate_tile_wall.json`      
- * `deepslate_tiles.json`
- * `polished_deepslate.json`
- * `polished_deepslate_slab.json`
- * `polished_deepslate_stairs.json`
- * `polished_deepslate_wall.json`
+- `cobbled_deepslate_from_deepslate_stonecutting.json`
+- `cobbled_deepslate_slab_from_deepslate_stonecutting.json`
+- `cobbled_deepslate_stairs_from_deepslate_stonecutting.json`
+- `cobbled_deepslate_wall_from_deepslate_stonecutting.json`
+- `cobblestone_from_stone_stonecutting.json`
+- `cobblestone_slab_from_stone_stonecutting.json`
+- `cobblestone_stairs_from_stone_stonecutting.json`
+- `cobblestone_wall_from_stone_stonecutting.json`
+- `deepslate_brick_slab_from_deepslate_stonecutting.json`
+- `deepslate_brick_stairs_from_deepslate_stonecutting.json`
+- `deepslate_brick_wall_from_deepslate_stonecutting.json`
+- `deepslate_bricks_from_deepslate_stonecutting.json`
+- `deepslate_tile_slab_from_deepslate_stonecutting.json`
+- `deepslate_tile_stairs_from_deepslate_stonecutting.json`
+- `deepslate_tile_wall_from_deepslate_stonecutting.json`
+- `deepslate_tiles_from_deepslate_stonecutting.json`
+- `polished_deepslate_from_deepslate_stonecutting.json`
+- `polished_deepslate_slab_from_deepslate_stonecutting.json`
+- `polished_deepslate_stairs_from_deepslate_stonecutting.json`
+- `polished_deepslate_wall_from_deepslate_stonecutting.json`
