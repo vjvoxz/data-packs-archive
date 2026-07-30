@@ -28,8 +28,6 @@ Inside each individual pack folder, include a `README.md` and a metadata file de
 
 [^1]:Only the minor hotfixes v1.21.7 and v1.21.8. v1.21.6 is NOT included
 
-
-
 ---
 
 ## To Do
