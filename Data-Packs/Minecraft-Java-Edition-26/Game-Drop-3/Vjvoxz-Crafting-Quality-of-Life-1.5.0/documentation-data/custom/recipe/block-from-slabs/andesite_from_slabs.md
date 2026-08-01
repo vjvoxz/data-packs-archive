@@ -1,0 +1,16 @@
+```
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:andesite_slab"
+	},
+	"result": {
+		"id": "minecraft:andesite",
+		"count": 1
+	}
+}
+```
