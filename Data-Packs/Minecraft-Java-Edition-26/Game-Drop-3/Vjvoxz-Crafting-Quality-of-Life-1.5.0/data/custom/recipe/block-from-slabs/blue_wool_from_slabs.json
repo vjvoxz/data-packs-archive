@@ -9,6 +9,7 @@
 		"#": "minecraft:blue_wool_slab"
 	},
 	"result": {
-		"id": "minecraft:blue_wool"
+		"id": "minecraft:blue_wool",
+		"count": 1
 	}
 }
