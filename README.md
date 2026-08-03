@@ -1,6 +1,6 @@
 # Data Packs Archive by vjvoxz
 
-![GitHub last commit](https://img.shields.io/github/last-commit/vjvoxz/data-packs-archive) Last updated: 2026-07-28
+![GitHub last commit](https://img.shields.io/github/last-commit/vjvoxz/data-packs-archive) Last updated: 2026-08-02
 
 ## Important Notice for the archive
 Since these are out-of-date works from various creators, I need to stay here as a policy:
@@ -37,11 +37,15 @@ Inside each individual pack folder, include a `README.md` and a metadata file de
 
 ## Tools I use to
 
-https://minecraft.wiki/w/Pack.mcmeta#
-
+https://github.com/misode/mcmeta **Misode** is the GOAT
+\
 https://misode.github.io/
-
+\
+https://minecraft.wiki/w/Pack.mcmeta#
+\
 https://www.mcgic.com/text/
+\
+https://ccvaults.com/
 
 ## Why?
 
