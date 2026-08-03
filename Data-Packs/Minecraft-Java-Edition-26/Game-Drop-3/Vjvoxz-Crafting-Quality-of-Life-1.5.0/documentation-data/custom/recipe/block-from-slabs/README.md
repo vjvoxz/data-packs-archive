@@ -176,7 +176,7 @@
 	}
 }
 ```
-# Cherry Wool
+# Cherry 
 ```
 {
 	"type": "minecraft:crafting_shaped",
@@ -194,21 +194,73 @@
 	}
 }
 ```
-# 
+# Cinnabar Bricks
 ```
-
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cinnabar_brick_slab"
+	},
+	"result": {
+		"id": "minecraft:cinnabar_bricks",
+		"count": 1
+	}
+}
 ```
-# 
+# Cinnabar
 ```
-
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cinnabar_slab"
+	},
+	"result": {
+		"id": "minecraft:cinnabar",
+		"count": 1
+	}
+}
 ```
-# 
+# Cobbled Deepslate
 ```
-
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cobbled_deepslate_slab"
+	},
+	"result": {
+		"id": "minecraft:cobbled_deepslate",
+		"count": 1
+	}
+}
 ```
-# 
+# Cobblestone
 ```
-
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cobblestone_slab"
+	},
+	"result": {
+		"id": "minecraft:cobblestone",
+		"count": 1
+	}
+}
 ```
 # 
 ```
