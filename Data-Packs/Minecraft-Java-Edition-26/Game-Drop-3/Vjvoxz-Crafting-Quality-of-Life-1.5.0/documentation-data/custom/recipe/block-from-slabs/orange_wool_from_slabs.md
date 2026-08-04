@@ -7,10 +7,10 @@
 		"##"
 	],
 	"key": {
-		"#": "minecraft:cyan_wool_slab"
+		"#": "minecraft:orange_wool_slab"
 	},
 	"result": {
-		"id": "minecraft:cyan_wool",
+		"id": "minecraft:orange_wool",
 		"count": 1
 	}
 }

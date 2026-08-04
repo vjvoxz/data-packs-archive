@@ -1,16 +1,16 @@
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "woolen_block",
+	"group": "plank",
 	"category": "building",
 	"pattern": [
 		"##"
 	],
 	"key": {
-		"#": "minecraft:cyan_wool_slab"
+		"#": "minecraft:pale_oak_slab"
 	},
 	"result": {
-		"id": "minecraft:cyan_wool",
+		"id": "minecraft:pale_oak_planks",
 		"count": 1
 	}
 }

@@ -1,16 +1,15 @@
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "woolen_block",
 	"category": "building",
 	"pattern": [
 		"##"
 	],
 	"key": {
-		"#": "minecraft:cyan_wool_slab"
+		"#": "minecraft:polished_andesite_slab"
 	},
 	"result": {
-		"id": "minecraft:cyan_wool",
+		"id": "minecraft:polished_andesite",
 		"count": 1
 	}
 }

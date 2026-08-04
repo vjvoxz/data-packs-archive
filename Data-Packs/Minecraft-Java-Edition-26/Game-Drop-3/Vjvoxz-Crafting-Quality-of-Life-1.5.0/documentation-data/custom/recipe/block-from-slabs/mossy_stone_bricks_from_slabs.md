@@ -1,4 +1,4 @@
-```
+```json
 {
 	"type": "minecraft:crafting_shaped",
 	"group": "mossy_stone_bricks",
