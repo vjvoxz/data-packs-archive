@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "concrete",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:lime_concrete_slab"
+	},
+	"result": {
+		"id": "minecraft:lime_concrete",
+		"count": 1
+	}
+}
+```

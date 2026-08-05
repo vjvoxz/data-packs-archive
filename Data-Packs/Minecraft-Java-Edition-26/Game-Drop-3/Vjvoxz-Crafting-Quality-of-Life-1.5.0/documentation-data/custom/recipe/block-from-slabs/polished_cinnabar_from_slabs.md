@@ -1,0 +1,16 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:polished_cinnabar_slab"
+	},
+	"result": {
+		"id": "minecraft:polished_cinnabar",
+		"count": 1
+	}
+}
+```
