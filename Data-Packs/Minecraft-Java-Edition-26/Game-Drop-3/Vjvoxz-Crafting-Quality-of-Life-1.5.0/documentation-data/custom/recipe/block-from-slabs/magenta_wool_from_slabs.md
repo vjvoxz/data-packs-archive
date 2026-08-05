@@ -1,7 +1,7 @@
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "woolen_block",
+	"group": "nthewa",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -10,7 +10,7 @@
 		"#": "minecraft:magenta_wool_slab"
 	},
 	"result": {
-		"id": "magenta_wool",
+		"id": "minecraft:magenta_wool",
 		"count": 1
 	}
 }

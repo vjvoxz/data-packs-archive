@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "concrete",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:purple_concrete_slab"
+	},
+	"result": {
+		"id": "minecraft:purple_concrete",
+		"count": 1
+	}
+}
+```

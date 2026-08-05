@@ -1,0 +1,16 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:red_nether_brick_slab"
+	},
+	"result": {
+		"id": "minecraft:red_nether_bricks",
+		"count": 1
+	}
+}
+```

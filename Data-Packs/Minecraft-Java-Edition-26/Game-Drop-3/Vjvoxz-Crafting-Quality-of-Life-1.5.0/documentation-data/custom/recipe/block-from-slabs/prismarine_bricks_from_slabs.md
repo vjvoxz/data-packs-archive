@@ -1,0 +1,16 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:prismarine_brick_slab"
+	},
+	"result": {
+		"id": "minecraft:prismarine_bricks",
+		"count": 1
+	}
+}
+```

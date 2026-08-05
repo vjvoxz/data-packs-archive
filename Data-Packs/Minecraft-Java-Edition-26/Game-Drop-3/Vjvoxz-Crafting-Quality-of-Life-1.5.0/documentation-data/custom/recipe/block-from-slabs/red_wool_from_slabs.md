@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "nthewa",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:red_wool_slab"
+	},
+	"result": {
+		"id": "minecraft:red_wool",
+		"count": 1
+	}
+}
+```

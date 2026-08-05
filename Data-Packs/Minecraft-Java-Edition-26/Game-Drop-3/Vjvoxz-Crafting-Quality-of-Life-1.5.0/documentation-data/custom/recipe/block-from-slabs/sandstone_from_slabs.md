@@ -1,0 +1,16 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:sandstone_slab"
+	},
+	"result": {
+		"id": "minecraft:sandstone",
+		"count": 1
+	}
+}
+```

@@ -1,16 +1,16 @@
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "woolen_block",
+	"group": "nthewa",
 	"category": "building",
 	"pattern": [
 		"##"
 	],
 	"key": {
-		"#": "green_wool_slab"
+		"#": "minecraft:green_wool_slab"
 	},
 	"result": {
-		"id": "green_wool",
+		"id": "minecraft:green_wool",
 		"count": 1
 	}
 }

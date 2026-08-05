@@ -1,7 +1,7 @@
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "woolen_block",
+	"group": "nthewa",
 	"category": "building",
 	"pattern": [
 		"##"

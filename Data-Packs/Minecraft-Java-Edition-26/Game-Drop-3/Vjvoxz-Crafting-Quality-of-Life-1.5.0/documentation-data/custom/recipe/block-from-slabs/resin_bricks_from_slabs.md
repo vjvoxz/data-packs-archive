@@ -1,0 +1,16 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:resin_brick_slab"
+	},
+	"result": {
+		"id": "minecraft:resin_bricks",
+		"count": 1
+	}
+}
+```
