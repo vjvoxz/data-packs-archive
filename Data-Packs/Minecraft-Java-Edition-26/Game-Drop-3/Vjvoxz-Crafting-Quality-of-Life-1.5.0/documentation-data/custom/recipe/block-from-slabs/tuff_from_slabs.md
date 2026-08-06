@@ -1,0 +1,16 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:tuff_slab"
+	},
+	"result": {
+		"id": "minecraft:tuff",
+		"count": 1
+	}
+}
+```

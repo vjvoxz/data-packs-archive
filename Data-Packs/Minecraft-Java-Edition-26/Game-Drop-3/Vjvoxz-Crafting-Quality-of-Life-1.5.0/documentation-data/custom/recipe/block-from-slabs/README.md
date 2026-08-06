@@ -1459,6 +1459,138 @@ Groups:
 	}
 }
 ```
+## Spruce
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "plank",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:spruce_slab"
+	},
+	"result": {
+		"id": "minecraft:spruce_planks",
+		"count": 1
+	}
+}
+```
+## Stone Bricks
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:stone_brick_slab"
+	},
+	"result": {
+		"id": "minecraft:stone_bricks",
+		"count": 1
+	}
+}
+```
+## Stone
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:stone_slab"
+	},
+	"result": {
+		"id": "minecraft:stone",
+		"count": 1
+	}
+}
+```
+## Sulfur Bricks
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:sulfur_brick_slab"
+	},
+	"result": {
+		"id": "minecraft:sulfur_bricks",
+		"count": 1
+	}
+}
+```
+## Sulfur
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:sulfur_slab"
+	},
+	"result": {
+		"id": "minecraft:sulfur",
+		"count": 1
+	}
+}
+```
+## Tuff Bricks
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:tuff_brick_slab"
+	},
+	"result": {
+		"id": "minecraft:tuff_bricks",
+		"count": 1
+	}
+}
+```
+## Tuff
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:tuff_slab"
+	},
+	"result": {
+		"id": "minecraft:tuff",
+		"count": 1
+	}
+}
+```
+## 
+```json
+
+```
+## 
+```json
+
+```
+## 
+```json
+
+```
 ## 
 ```json
 
