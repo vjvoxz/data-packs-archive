@@ -1,9 +1,13 @@
-# List of block from slabs recipes JSON files
+# Block from slabs recipes JSON files
 
 Groups:
 - concrete
 - plank
 - nthewa (wool in Querétaro Otomi)
+- waxed_cut_copper
+- waxed_exposed_cut_copper
+- waxed_oxidized_cut_copper
+- waxed_weathered_cut_copper
 
 ## Acacia 
 ```json
@@ -1579,47 +1583,182 @@ Groups:
 	}
 }
 ```
-## 
+## Warped
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "plank",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:warped_slab"
+	},
+	"result": {
+		"id": "minecraft:warped_planks",
+		"count": 1
+	}
+}
 ```
-## 
+## Waxed Cut Copper
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+    "group": "waxed_cut_copper",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:waxed_cut_copper_slab"
+	},
+	"result": {
+		"id": "minecraft:waxed_cut_copper",
+		"count": 1
+	}
+}
 ```
-## 
+## Waxed Exposed Cut Copper
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "waxed_exposed_cut_copper",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:waxed_exposed_cut_copper_slab"
+	},
+	"result": {
+		"id": "minecraft:waxed_exposed_cut_copper",
+		"count": 1
+	}
+}
 ```
-## 
+## Waxed Oxidized Cut Copper
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+    "group": "waxed_oxidized_cut_copper",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:waxed_oxidized_cut_copper_slab"
+	},
+	"result": {
+		"id": "minecraft:waxed_oxidized_cut_copper",
+		"count": 1
+	}
+}
 ```
-## 
+## Waxed Weathered Cut Copper
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+    "group": "waxed_weathered_cut_copper",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:waxed_weathered_cut_copper_slab"
+	},
+	"result": {
+		"id": "minecraft:waxed_weathered_cut_copper",
+		"count": 1
+	}
+}
 ```
-## 
+## Weathered Cut Copper
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:weathered_cut_copper_slab"
+	},
+	"result": {
+		"id": "minecraft:weathered_cut_copper",
+		"count": 1
+	}
+}
 ```
-## 
+## White Concrete
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "concrete",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:white_concrete_slab"
+	},
+	"result": {
+		"id": "minecraft:white_concrete",
+		"count": 1
+	}
+}
 ```
-## 
+## White Wool
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "nthewa",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:white_wool_slab"
+	},
+	"result": {
+		"id": "minecraft:white_wool",
+		"count": 1
+	}
+}
 ```
-## 
+## Yellow Concrete
 ```json
-
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "concrete",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:yellow_concrete_slab"
+	},
+	"result": {
+		"id": "minecraft:yellow_concrete",
+		"count": 1
+	}
+}
 ```
-## 
+## Yellow Wool
 ```json
-
-```
-## 
-```json
-
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "nthewa",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:yellow_wool_slab"
+	},
+	"result": {
+		"id": "minecraft:yellow_wool",
+		"count": 1
+	}
+}
 ```
