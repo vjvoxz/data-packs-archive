@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:polished_andesite_stairs"
+	},
+	"result": {
+		"id": "minecraft:polished_andesite",
+		"count": 3
+	}
+}
+```

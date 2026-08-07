@@ -1492,24 +1492,6 @@ Groups:
 	}
 }
 ```
-## Smooth Stone
-```json
-{
-	"type": "minecraft:crafting_shaped",
-	"category": "building",
-	"pattern": [
-		"##",
-		"##"
-	],
-	"key": {
-		"#": "minecraft:smooth_stone_stairs"
-	},
-	"result": {
-		"id": "minecraft:smooth_stone",
-		"count": 3
-	}
-}
-```
 ## Spruce
 ```json
 {

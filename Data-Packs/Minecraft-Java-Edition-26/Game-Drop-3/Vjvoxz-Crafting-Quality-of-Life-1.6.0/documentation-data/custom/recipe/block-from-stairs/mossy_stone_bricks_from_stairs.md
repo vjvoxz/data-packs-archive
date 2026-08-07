@@ -1,0 +1,18 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "mossy_stone_bricks",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:mossy_stone_brick_stairs"
+	},
+	"result": {
+		"id": "mossy_stone_bricks",
+		"count": 3
+	}
+}
+```

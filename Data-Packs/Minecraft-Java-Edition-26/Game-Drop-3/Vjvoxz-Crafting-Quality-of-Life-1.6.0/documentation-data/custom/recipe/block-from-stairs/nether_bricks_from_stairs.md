@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:nether_brick_stairs"
+	},
+	"result": {
+		"id": "minecraft:nether_bricks",
+		"count": 3
+	}
+}
+```

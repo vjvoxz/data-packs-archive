@@ -1,0 +1,18 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "waxed_exposed_cut_copper",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:waxed_exposed_cut_copper_stairs"
+	},
+	"result": {
+		"id": "minecraft:waxed_exposed_cut_copper",
+		"count": 3
+	}
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:smooth_sandstone_stairs"
+	},
+	"result": {
+		"id": "minecraft:smooth_sandstone",
+		"count": 3
+	}
+}
+```

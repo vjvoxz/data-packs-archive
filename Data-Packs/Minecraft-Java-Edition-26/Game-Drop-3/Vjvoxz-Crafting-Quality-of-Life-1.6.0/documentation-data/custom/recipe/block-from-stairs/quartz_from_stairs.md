@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:quartz_stairs"
+	},
+	"result": {
+		"id": "minecraft:quartz_block",
+		"count": 3
+	}
+}
+```

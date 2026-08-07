@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:granite_stairs"
+	},
+	"result": {
+		"id": "minecraft:granite",
+		"count": 3
+	}
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:mud_brick_stairs"
+	},
+	"result": {
+		"id": "minecraft:mud_bricks",
+		"count": 3
+	}
+}
+```

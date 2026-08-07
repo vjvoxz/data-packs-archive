@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:prismarine_stairs"
+	},
+	"result": {
+		"id": "minecraft:prismarine",
+		"count": 3
+	}
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "planks_from_stairs",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:oak_stairs"
+	},
+	"result": {
+		"id": "minecraft:oak_planks",
+		"count": 3
+	}
+}
+```

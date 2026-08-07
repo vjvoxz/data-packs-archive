@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:polished_tuff_stairs"
+	},
+	"result": {
+		"id": "minecraft:polished_tuff",
+		"count": 3
+	}
+}
+```
