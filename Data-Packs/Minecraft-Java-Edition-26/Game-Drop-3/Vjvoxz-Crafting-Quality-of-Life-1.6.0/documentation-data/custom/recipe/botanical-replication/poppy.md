@@ -1,0 +1,19 @@
+```json
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "botanical_replication",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:poppy",
+		"minecraft:bone_meal",
+		[
+			"minecraft:rotten_flesh",
+			"minecraft:poisonous_potato"
+		]
+	],
+	"result": {
+		"id": "minecraft:poppy",
+		"count": 3
+	}
+}
+```

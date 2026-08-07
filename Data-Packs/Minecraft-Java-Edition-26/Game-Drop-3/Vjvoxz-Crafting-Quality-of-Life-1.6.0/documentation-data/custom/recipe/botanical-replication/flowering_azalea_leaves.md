@@ -1,0 +1,19 @@
+```json
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "botanical_replication",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:flowering_azalea_leaves",
+		"minecraft:bone_meal",
+		[
+			"minecraft:rotten_flesh",
+			"minecraft:poisonous_potato"
+		]
+	],
+	"result": {
+		"id": "minecraft:flowering_azalea_leaves",
+		"count": 3
+	}
+}
+```
