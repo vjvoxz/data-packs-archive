@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cobblestone_stairs"
+	},
+	"result": {
+		"id": "minecraft:cobblestone",
+		"count": 3
+	}
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:diorite_stairs"
+	},
+	"result": {
+		"id": "minecraft:diorite",
+		"count": 3
+	}
+}
+```

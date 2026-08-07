@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cinnabar_brick_stairs"
+	},
+	"result": {
+		"id": "minecraft:cinnabar_bricks",
+		"count": 3
+	}
+}
+```

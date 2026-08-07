@@ -1,0 +1,18 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+    "group": "planks_from_stairs",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:bamboo_stairs"
+	},
+	"result": {
+		"id": "minecraft:bamboo_planks",
+		"count": 3
+	}
+}
+```

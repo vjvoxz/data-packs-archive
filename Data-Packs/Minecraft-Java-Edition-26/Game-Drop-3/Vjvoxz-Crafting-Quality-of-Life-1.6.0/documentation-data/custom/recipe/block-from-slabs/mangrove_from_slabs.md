@@ -1,7 +1,7 @@
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slab",
 	"category": "building",
 	"pattern": [
 		"##"

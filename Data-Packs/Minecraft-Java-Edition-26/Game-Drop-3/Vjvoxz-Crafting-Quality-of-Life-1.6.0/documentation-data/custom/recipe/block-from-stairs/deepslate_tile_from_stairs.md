@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:deepslate_tile_stairs"
+	},
+	"result": {
+		"id": "minecraft:deepslate_tiles",
+		"count": 3
+	}
+}
+```

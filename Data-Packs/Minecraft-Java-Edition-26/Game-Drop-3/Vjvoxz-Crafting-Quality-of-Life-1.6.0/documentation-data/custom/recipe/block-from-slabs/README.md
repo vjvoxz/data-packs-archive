@@ -1,9 +1,12 @@
 # Block from slabs recipes JSON files
 
+
+This file contains JSON files that define the recipes for the `block_from_slabs` recipes in Minecraft Java Edition 26.3.
+
 Groups:
-- concrete
-- plank
-- nthewa (wool in Querétaro Otomi)
+- concrete_from_slab
+- plank_from_slabs
+- wool_from_slabs
 - waxed_cut_copper
 - waxed_exposed_cut_copper
 - waxed_oxidized_cut_copper
@@ -13,7 +16,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -50,7 +53,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -85,7 +88,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -103,7 +106,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-    "group": "concrete",
+    "group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -121,7 +124,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -156,7 +159,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-    "group": "concrete",
+    "group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -174,7 +177,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -209,7 +212,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-    "group": "concrete",
+    "group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -227,7 +230,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -245,7 +248,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -331,7 +334,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -400,7 +403,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-    "group": "concrete",
+    "group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -418,7 +421,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -436,7 +439,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -573,7 +576,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -591,7 +594,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -609,7 +612,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -627,7 +630,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -645,7 +648,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -663,7 +666,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -681,7 +684,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -699,7 +702,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -717,7 +720,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -735,7 +738,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -753,7 +756,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -771,7 +774,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -789,7 +792,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -807,7 +810,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -895,7 +898,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -913,7 +916,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -931,7 +934,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -966,7 +969,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -984,7 +987,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1002,7 +1005,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1173,7 +1176,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-    "group": "plank",
+    "group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1225,7 +1228,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1243,7 +1246,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1295,7 +1298,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1347,7 +1350,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1467,7 +1470,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1587,7 +1590,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "plank",
+	"group": "plank_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1694,7 +1697,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1712,7 +1715,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1730,7 +1733,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1748,7 +1751,7 @@ Groups:
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "nthewa",
+	"group": "wool_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"

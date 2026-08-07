@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cobbled_deepslate_stairs"
+	},
+	"result": {
+		"id": "minecraft:cobbled_deepslate",
+		"count": 3
+	}
+}
+```

@@ -1,7 +1,7 @@
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "concrete",
+	"group": "concrete_from_slabs",
 	"category": "building",
 	"pattern": [
 		"##"
