@@ -1,0 +1,18 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"# #",
+		" # ",
+		"# #"
+	],
+	"key": {
+		"#": "minecraft:string"
+	},
+	"result": {
+		"id": "minecraft:cobweb",
+		"count": 1
+	}
+}
+```

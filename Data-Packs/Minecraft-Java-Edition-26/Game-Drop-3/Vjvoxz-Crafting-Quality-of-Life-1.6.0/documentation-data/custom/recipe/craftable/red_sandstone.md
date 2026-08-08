@@ -1,0 +1,15 @@
+```json
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"ingredients": [
+		"minecraft:sandstone",
+		"minecraft:red_dye",
+		"minecraft:sandstone"
+	],
+	"result": {
+		"id": "minecraft:red_sandstone",
+		"count": 2
+	}
+}
+```

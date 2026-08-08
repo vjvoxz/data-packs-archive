@@ -1,0 +1,25 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "coral_blocks",
+	"pattern": [
+		"#&",
+		"&#"
+	],
+	"key": {
+		"&": [
+			"minecraft:bubble_coral",
+			"minecraft:bubble_coral_fan"
+		],
+		"#": [
+			"minecraft:bubble_coral_fan",
+			"minecraft:bubble_coral"
+		]
+	},
+	"result": {
+		"id": "minecraft:bubble_coral_block",
+		"count": 1
+	}
+}
+```

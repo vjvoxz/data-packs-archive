@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "CB",
+    "BC"
+  ],
+  "key": {
+    "B": [
+      "minecraft:basalt",
+      "minecraft:cobblestone"
+    ],
+    "C": [
+      "minecraft:charcoal",
+      "minecraft:coal"
+    ]
+  },
+  "result": {
+    "id": "minecraft:blackstone",
+    "count": 2
+  }
+}

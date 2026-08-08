@@ -1,0 +1,19 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+    "group": "mushroom",
+	"category": "building",
+	"pattern": [
+		"RB",
+		"BR"
+	],
+	"key": {
+		"B": "minecraft:brown_mushroom",
+		"R": "minecraft:red_mushroom"
+	},
+	"result": {
+		"id": "minecraft:mushroom_stem",
+		"count": 1
+	}
+}
+```

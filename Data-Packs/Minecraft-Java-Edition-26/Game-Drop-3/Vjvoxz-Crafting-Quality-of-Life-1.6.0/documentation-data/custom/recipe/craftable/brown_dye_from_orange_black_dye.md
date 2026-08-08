@@ -1,0 +1,15 @@
+```json
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "brown_dye",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:orange_dye",
+		"minecraft:black_dye"
+	],
+	"result": {
+		"id": "minecraft:brown_dye",
+		"count": 2
+	}
+}
+```

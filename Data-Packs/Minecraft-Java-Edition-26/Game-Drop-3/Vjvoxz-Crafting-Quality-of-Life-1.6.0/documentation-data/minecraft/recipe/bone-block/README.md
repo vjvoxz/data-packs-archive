@@ -1,0 +1,19 @@
+# Bone Block
+```json
+{
+	"type": "minecraft:crafting_shaped",
+    "group": "boneblock",
+	"category": "building",
+	"key": {
+		"#": "minecraft:bone_meal"
+	},
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"result": {
+		"id": "minecraft:bone_block"
+	}
+}
+```

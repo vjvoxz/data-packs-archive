@@ -1,0 +1,15 @@
+```json
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "green_dye",
+	"ingredients": [
+		"minecraft:blue_dye",
+		"minecraft:yellow_dye"
+	],
+	"result": {
+		"id": "minecraft:green_dye",
+		"count": 2
+	}
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"key": {
+		"#": "minecraft:snow_block"
+	},
+	"result": {
+		"id": "minecraft:ice",
+		"count": 1
+	}
+}
+```

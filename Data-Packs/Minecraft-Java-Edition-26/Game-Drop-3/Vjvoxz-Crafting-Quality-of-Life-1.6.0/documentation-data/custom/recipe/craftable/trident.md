@@ -1,0 +1,20 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "combat",
+	"category": "equipment",
+	"pattern": [
+		" ##",
+		" /#",
+		"/  "
+	],
+	"key": {
+		"#": "minecraft:prismarine_shard",
+		"/": "minecraft:stick"
+	},
+	"result": {
+		"id": "minecraft:trident",
+		"count": 1
+	}
+}
+```

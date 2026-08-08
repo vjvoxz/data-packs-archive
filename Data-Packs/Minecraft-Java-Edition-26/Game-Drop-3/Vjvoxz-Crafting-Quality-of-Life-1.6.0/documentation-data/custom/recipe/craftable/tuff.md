@@ -1,0 +1,21 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"BC",
+		"CB"
+	],
+	"key": {
+		"B": "minecraft:basalt",
+		"C": [
+			"minecraft:cobbled_deepslate",
+			"minecraft:cobblestone"
+		]
+	},
+	"result": {
+		"id": "minecraft:tuff",
+		"count": 4
+	}
+}
+```

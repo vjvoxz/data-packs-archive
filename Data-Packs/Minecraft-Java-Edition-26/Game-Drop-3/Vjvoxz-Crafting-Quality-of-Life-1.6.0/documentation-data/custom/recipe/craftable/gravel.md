@@ -1,0 +1,17 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:flint"
+	},
+	"result": {
+		"id": "minecraft:gravel",
+		"count": 1
+	}
+}
+```

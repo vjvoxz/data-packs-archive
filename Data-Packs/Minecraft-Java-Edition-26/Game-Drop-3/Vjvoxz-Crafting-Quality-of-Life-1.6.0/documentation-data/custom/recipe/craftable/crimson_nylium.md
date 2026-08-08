@@ -1,0 +1,20 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "nylium",
+	"category": "building",
+	"pattern": [
+		"###",
+		"NNN",
+		"NNN"
+	],
+	"key": {
+		"#": "minecraft:crimson_roots",
+		"N": "minecraft:netherrack"
+	},
+	"result": {
+		"id": "minecraft:crimson_nylium",
+		"count": 6
+	}
+}
+```
