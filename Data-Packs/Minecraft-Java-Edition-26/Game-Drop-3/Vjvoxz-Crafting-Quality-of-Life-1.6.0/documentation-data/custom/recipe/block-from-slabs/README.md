@@ -1,9 +1,7 @@
-# Block from slabs recipes JSON files
-
-
+# Crafting Quality of Life: Block from Slabs 
 This file contains JSON files that define the recipes for the `block_from_slabs` recipes in Minecraft Java Edition 26.3.
 
-Groups:
+**Groups**:
 - concrete_from_slab
 - plank_from_slabs
 - wool_from_slabs

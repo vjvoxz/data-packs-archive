@@ -1,8 +1,7 @@
-# Block from stairs recipes JSON files
-
+# Crafting Quality of Life: Block from Stairs 
 This file contains JSON files that define the recipes for the `block_from_stairs` recipes in Minecraft Java Edition 26.3.
 
-Groups:
+**Groups**:
 - concrete_from_stairs
 - planks_from_stairs
 - wool_from_stairs
