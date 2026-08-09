@@ -1,0 +1,20 @@
+```json
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "ud_concrete",
+	"category": "building",
+	"pattern": [
+		"###",
+		"#D#",
+		"###"
+	],
+	"key": {
+		"D": "minecraft:lime_dye",
+		"#": "#minecraft:concrete"
+	},
+	"result": {
+		"id": "minecraft:lime_concrete",
+		"count": 8
+	}
+}
+```

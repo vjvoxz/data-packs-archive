@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "ud_concrete_powder",
+	"category": "building",
+	"pattern": [
+		"###",
+		"#D#",
+		"###"
+	],
+	"key": {
+		"D": "minecraft:gray_dye",
+		"#": "#minecraft:concrete_powders"
+	},
+	"result": {
+		"id": "minecraft:gray_concrete_powder",
+		"count": 8
+	}
+}

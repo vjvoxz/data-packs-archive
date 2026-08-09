@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "ud_stained_glass",
+	"category": "building",
+	"pattern": [
+		"###",
+		"#D#",
+		"###"
+	],
+	"key": {
+		"D": "minecraft:brown_dye",
+		"#": "#minecraft:stained_glass"
+	},
+	"result": {
+		"id": "minecraft:brown_stained_glass",
+		"count": 8
+	}
+}

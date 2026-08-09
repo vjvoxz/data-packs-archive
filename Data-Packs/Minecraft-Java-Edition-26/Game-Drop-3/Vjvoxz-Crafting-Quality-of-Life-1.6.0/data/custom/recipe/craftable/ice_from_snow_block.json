@@ -1,17 +1,17 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "mushroom",
+	"group": "ice",
 	"category": "building",
 	"pattern": [
-		"BBB",
-		"BBB",
-		"BBB"
+		"###",
+		"###",
+		"###"
 	],
 	"key": {
-		"B": "minecraft:brown_mushroom"
+		"#": "minecraft:snow_block"
 	},
 	"result": {
-		"id": "minecraft:brown_mushroom_block",
+		"id": "minecraft:ice",
 		"count": 1
 	}
 }

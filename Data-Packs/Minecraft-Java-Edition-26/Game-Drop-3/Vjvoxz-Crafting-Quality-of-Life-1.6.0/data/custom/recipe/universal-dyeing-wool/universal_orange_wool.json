@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "ud_wool",
+	"category": "building",
+	"pattern": [
+		"###",
+		"#D#",
+		"###"
+	],
+	"key": {
+		"D": "minecraft:orange_dye",
+		"#": "#minecraft:wool"
+	},
+	"result": {
+		"id": "minecraft:orange_wool",
+		"count": 8
+	}
+}
