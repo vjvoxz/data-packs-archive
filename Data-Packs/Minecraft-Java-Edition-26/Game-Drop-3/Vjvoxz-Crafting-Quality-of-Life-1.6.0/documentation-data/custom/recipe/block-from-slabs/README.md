@@ -1,5 +1,5 @@
 # Crafting Quality of Life: Block from Slabs 
-This file contains JSON files that define the recipes for the `block_from_slabs` recipes in Minecraft Java Edition 26.3.
+This file contains JSON files that define the recipes for the `block_from_slabs` for Minecraft Java Edition 26.3.
 
 **Groups**:
 - concrete_from_slab

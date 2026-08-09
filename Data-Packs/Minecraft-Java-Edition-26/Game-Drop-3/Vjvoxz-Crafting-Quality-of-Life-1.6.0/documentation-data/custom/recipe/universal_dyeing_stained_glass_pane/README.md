@@ -1,13 +1,13 @@
-# Crafting Quality of Life: Universal Dyeing Concrete
-This file contains JSON files that define the recipes for the `universal_dyeing_concrete` for  Minecraft Java Edition 26.3.
+# Crafting Quality of Life: Universal Dyeing Stained Glass Pane
+This file contains JSON files that define the recipes for the `universal_dyeing_stained_glass_pane` for Minecraft Java Edition 26.3.
 
-**Group**: ud_concrete
+**Group**: ud_stained_glass_pane
 
-## Universal Black Concrete
+## Universal Black Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -16,19 +16,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:black_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:black_concrete",
+		"id": "minecraft:black_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Blue Concrete
+## Universal Blue Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -37,19 +37,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:blue_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:blue_concrete",
+		"id": "minecraft:blue_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Brown Concrete
+## Universal Brown Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -58,19 +58,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:brown_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:brown_concrete",
+		"id": "minecraft:brown_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Cyan Dye
+## Universal Cyan Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -79,19 +79,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:cyan_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:cyan_concrete",
+		"id": "minecraft:cyan_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Gray Dye
+## Universal Gray Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -100,19 +100,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:gray_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:gray_concrete",
+		"id": "minecraft:gray_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Green Concrete
+## Universal Green Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -121,19 +121,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:green_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:green_concrete",
+		"id": "minecraft:green_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Light Blue Concrete
+## Universal Light Blue Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -142,19 +142,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:light_blue_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:light_blue_concrete",
+		"id": "minecraft:light_blue_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Light Gray Concrete
+## Universal Light Gray Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -163,19 +163,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:light_gray_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:light_gray_concrete",
+		"id": "minecraft:light_gray_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Lime Concrete
+## Universal Lime Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -184,19 +184,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:lime_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:lime_concrete",
+		"id": "minecraft:lime_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Magenta Dye
+## Universal Magenta Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -205,19 +205,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:magenta_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:magenta_concrete",
-		"count": 8
+		"id": "minecraft:magenta_stained_glass_pane",
+		"count": 8 
 	}
 }
 ```
-## Universal Orange Concrete
+## Universal Orange Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -226,19 +226,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:orange_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:orange_concrete",
+		"id": "minecraft:orange_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Pink Concrete
+## Universal Pink Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -247,19 +247,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:pink_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:pink_concrete",
+		"id": "minecraft:pink_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Purple Concrete
+## Universal Purple Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -268,19 +268,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:purple_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:purple_concrete",
+		"id": "minecraft:purple_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Red Concrete
+## Universal Red Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -289,19 +289,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:red_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:red_concrete",
+		"id": "minecraft:red_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal White Concrete
+## Universal White Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -310,19 +310,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:white_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:white_concrete",
+		"id": "minecraft:white_stained_glass_pane",
 		"count": 8
 	}
 }
 ```
-## Universal Yellow Concrete
+## Universal Yellow Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_stained_glass_pane",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -331,10 +331,10 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:yellow_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:stained_glass_pane"
 	},
 	"result": {
-		"id": "minecraft:yellow_concrete",
+		"id": "minecraft:yellow_stained_glass_pane",
 		"count": 8
 	}
 }

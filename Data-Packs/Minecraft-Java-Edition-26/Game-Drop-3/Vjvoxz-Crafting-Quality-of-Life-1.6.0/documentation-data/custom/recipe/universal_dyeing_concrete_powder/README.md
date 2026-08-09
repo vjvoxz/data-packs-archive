@@ -1,6 +1,5 @@
 # Crafting Quality of Life: Universal Dyeing Concrete Powder
-
-This file contains JSON files that define the recipes for the `universal_dyeing_concrete_powder` recipes in Minecraft Java Edition 26.3.
+This file contains JSON files that define the recipes for the `universal_dyeing_concrete_powder` for Minecraft Java Edition 26.3.
 
 **Group**: ud_concrete_powder
 

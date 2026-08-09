@@ -1,6 +1,5 @@
 # Crafting Quality of Life: Craftable
-
-This file contains JSON files that define the recipes for the `craftable` recipes in Minecraft Java Edition 26.3.
+This file contains JSON files that define the recipes for the `craftable` for Minecraft Java Edition 26.3.
 
 **Groups**:
 - boneblock

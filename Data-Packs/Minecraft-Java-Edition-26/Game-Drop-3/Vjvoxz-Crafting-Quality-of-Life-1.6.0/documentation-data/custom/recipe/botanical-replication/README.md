@@ -1,5 +1,5 @@
 # Crafting Quality of Life: Botanical Replication 
-This file contains JSON files that define the recipes for the `botanical_replication` recipes in Minecraft Java Edition 26.3.
+This file contains JSON files that define the recipes for the `botanical_replication` for Minecraft Java Edition 26.3.
 
 **Group**: botanical_replication
 
