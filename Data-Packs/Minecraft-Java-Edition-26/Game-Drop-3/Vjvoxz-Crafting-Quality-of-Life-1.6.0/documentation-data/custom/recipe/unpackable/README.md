@@ -191,3 +191,17 @@ This file contains JSON files that define the recipes for the `unpackable` for M
     }
 }
 ```
+## Sulfur Spike
+```json
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:sulfur"
+	],
+	"result": {
+		"id": "minecraft:sulfur_spike",
+		"count": 4
+	}
+}
+```

@@ -3,6 +3,7 @@ This file contains JSON files that define the recipes for the `more_stairs` for 
 
 **Group**:
 - concrete_stairs
+- wooden_stairs
 - woolen_stairs
 
 ## Acacia Stairs
