@@ -3,7 +3,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 
 **Group**: ud_stained_glass_pane
 
-## Universal Black Stained Glass Pane
+## Universal Dyeing Black Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -24,7 +24,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Blue Stained Glass Pane
+## Universal Dyeing Blue Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -45,7 +45,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Brown Stained Glass Pane
+## Universal Dyeing Brown Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -66,7 +66,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Cyan Stained Glass Pane
+## Universal Dyeing Cyan Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -87,7 +87,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Gray Stained Glass Pane
+## Universal Dyeing Gray Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -108,7 +108,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Green Stained Glass Pane
+## Universal Dyeing Green Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -129,7 +129,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Light Blue Stained Glass Pane
+## Universal Dyeing Light Blue Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -150,7 +150,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Light Gray Stained Glass Pane
+## Universal Dyeing Light Gray Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -171,7 +171,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Lime Stained Glass Pane
+## Universal Dyeing Lime Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -192,7 +192,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Magenta Stained Glass Pane
+## Universal Dyeing Magenta Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -213,7 +213,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Orange Stained Glass Pane
+## Universal Dyeing Orange Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -234,7 +234,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Pink Stained Glass Pane
+## Universal Dyeing Pink Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -255,7 +255,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Purple Stained Glass Pane
+## Universal Dyeing Purple Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -276,7 +276,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Red Stained Glass Pane
+## Universal Dyeing Red Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -297,7 +297,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal White Stained Glass Pane
+## Universal Dyeing White Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -318,7 +318,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Yellow Stained Glass Pane
+## Universal Dyeing Yellow Stained Glass Pane
 ```json
 {
 	"type": "minecraft:crafting_shaped",

@@ -3,7 +3,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 
 **Group**: ud_terracotta
 
-## Universal Black Terracotta
+## Universal Dyeing Black Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -24,7 +24,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Blue Terracotta
+## Universal Dyeing Blue Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -45,7 +45,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Brown Terracotta
+## Universal Dyeing Brown Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -66,7 +66,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Cyan Terracotta
+## Universal Dyeing Cyan Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -87,7 +87,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Gray Terracotta
+## Universal Dyeing Gray Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -108,7 +108,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Green Terracotta
+## Universal Dyeing Green Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -129,7 +129,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Light Blue Terracotta
+## Universal Dyeing Light Blue Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -150,7 +150,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Light Gray Terracotta
+## Universal Dyeing Light Gray Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -171,7 +171,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Lime Terracotta
+## Universal Dyeing Lime Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -192,7 +192,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Magenta Terracotta
+## Universal Dyeing Magenta Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -213,7 +213,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
     }
 }
 ```
-## Universal Orange Terracotta
+## Universal Dyeing Orange Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -234,7 +234,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Pink Terracotta
+## Universal Dyeing Pink Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -255,7 +255,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Purple Terracotta
+## Universal Dyeing Purple Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -276,7 +276,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Red Terracotta
+## Universal Dyeing Red Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -297,7 +297,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal White Terracotta
+## Universal Dyeing White Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -318,7 +318,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Yellow Terracotta
+## Universal Dyeing Yellow Terracotta
 ```json
 {
 	"type": "minecraft:crafting_shaped",

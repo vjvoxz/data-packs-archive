@@ -1,9 +1,8 @@
 {
 	"type": "minecraft:crafting_shaped",
 	"category": "building",
-	"group": "wooden_stairs",
 	"key": {
-		"#": "minecraft:warped_planks"
+		"#": "minecraft:polished_sulfur"
 	},
 	"pattern": [
 		"#  ",
@@ -12,6 +11,6 @@
 	],
 	"result": {
 		"count": 8,
-		"id": "minecraft:warped_stairs"
+		"id": "minecraft:polished_sulfur_stairs"
 	}
 }

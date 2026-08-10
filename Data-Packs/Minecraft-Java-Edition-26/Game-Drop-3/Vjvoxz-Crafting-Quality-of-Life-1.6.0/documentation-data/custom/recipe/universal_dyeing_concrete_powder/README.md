@@ -3,7 +3,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 
 **Group**: ud_concrete_powder
 
-## Universal Black Concrete Powder
+## Universal Dyeing Black Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -24,7 +24,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Blue Concrete Powder
+## Universal Dyeing Blue Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -45,7 +45,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Brown Concrete Powder
+## Universal Dyeing Brown Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -66,7 +66,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Cyan Dye
+## Universal Dyeing Cyan Dye
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -87,7 +87,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Gray Dye
+## Universal Dyeing Gray Dye
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -108,7 +108,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Green Concrete Powder
+## Universal Dyeing Green Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -129,7 +129,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Light Blue Concrete Powder
+## Universal Dyeing Light Blue Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -150,7 +150,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Light Gray Concrete Powder
+## Universal Dyeing Light Gray Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -171,7 +171,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Lime Concrete Powder
+## Universal Dyeing Lime Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -192,7 +192,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Magenta Dye
+## Universal Dyeing Magenta Dye
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -213,7 +213,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Orange Concrete Powder
+## Universal Dyeing Orange Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -234,7 +234,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Pink Concrete Powder
+## Universal Dyeing Pink Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -255,7 +255,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Purple Concrete Powder
+## Universal Dyeing Purple Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -276,7 +276,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Red Concrete Powder
+## Universal Dyeing Red Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -297,7 +297,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal White Concrete Powder
+## Universal Dyeing White Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
@@ -318,7 +318,7 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	}
 }
 ```
-## Universal Yellow Concrete Powder
+## Universal Dyeing Yellow Concrete Powder
 ```json
 {
 	"type": "minecraft:crafting_shaped",
