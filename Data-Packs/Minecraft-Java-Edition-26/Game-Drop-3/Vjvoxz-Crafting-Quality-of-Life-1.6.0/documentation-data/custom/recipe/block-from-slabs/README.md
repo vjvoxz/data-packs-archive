@@ -30,10 +30,11 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 	}
 }
 ```
-## Andesite 
+## Andesite *
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "andesite",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -69,6 +70,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "bamboo_mosaic",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -140,6 +142,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "blackstone_assembled",
 	"category": "building",
 	"pattern": [
 		"##"

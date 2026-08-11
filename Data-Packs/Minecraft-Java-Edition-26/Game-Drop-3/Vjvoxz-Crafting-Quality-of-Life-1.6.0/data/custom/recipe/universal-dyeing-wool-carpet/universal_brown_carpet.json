@@ -9,7 +9,7 @@
 	],
 	"key": {
 		"D": "minecraft:brown_dye",
-		"#": "#minecraft:wool_carpets_carpets"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
 		"id": "minecraft:brown_carpet",

@@ -1,6 +1,22 @@
 # Crafting Quality of Life: Minecraft Recipes
 This file contains JSON files that define the recipes for Minecraft Java Edition 26.3.
 
+## Andesite
+```json
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "andesite",
+	"category": "building",
+	"ingredients": [
+		"minecraft:diorite",
+		"minecraft:cobblestone"
+	],
+	"result": {
+		"count": 2,
+		"id": "minecraft:andesite"
+	}
+}
+```
 ## Bone Block
 ```json
 {
@@ -51,6 +67,28 @@ This file contains JSON files that define the recipes for Minecraft Java Edition
 	"result": {
 	"count": 1,
 	"id": "minecraft:fermented_spider_eye"
+	}
+}
+```
+## Packed Ice
+```json
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "packed_ice",
+	"category": "building",
+	"ingredients": [
+		"minecraft:ice",
+		"minecraft:ice",
+		"minecraft:ice",
+		"minecraft:ice",
+		"minecraft:ice",
+		"minecraft:ice",
+		"minecraft:ice",
+		"minecraft:ice",
+		"minecraft:ice"
+	],
+	"result": {
+		"id": "minecraft:packed_ice"
 	}
 }
 ```
