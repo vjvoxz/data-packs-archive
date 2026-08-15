@@ -336,6 +336,7 @@ This file contains JSON files that define the recipes for the `craftable` for Mi
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "ice",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -483,6 +484,7 @@ This file contains JSON files that define the recipes for the `craftable` for Mi
 ```json
 {
 	"type": "minecraft:crafting_shapeless",
+	"group": "red_sand",
 	"category": "building",
 	"ingredients": [
 		"minecraft:sand",
@@ -499,6 +501,7 @@ This file contains JSON files that define the recipes for the `craftable` for Mi
 ```json
 {
 	"type": "minecraft:crafting_shapeless",
+	"group": "red_sandstone",
 	"category": "building",
 	"ingredients": [
 		"minecraft:sandstone",
@@ -623,6 +626,7 @@ This file contains JSON files that define the recipes for the `craftable` for Mi
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "tuff",
 	"category": "building",
 	"pattern": [
 		"BC",

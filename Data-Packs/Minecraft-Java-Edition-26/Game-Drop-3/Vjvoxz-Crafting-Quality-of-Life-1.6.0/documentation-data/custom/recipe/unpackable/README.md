@@ -24,7 +24,7 @@ This file contains JSON files that define the recipes for the `unpackable` for M
 ```json
 {
 	"type": "minecraft:crafting_shapeless",
-	"group": "mushroom",
+	"group": "item_mushroom",
 	"category": "misc",
 	"ingredients": [
 		"minecraft:brown_mushroom_block"
@@ -82,6 +82,7 @@ This file contains JSON files that define the recipes for the `unpackable` for M
 ```json
 {
 	"type": "minecraft:crafting_shapeless",
+	"group": "magma_cream",
 	"category": "misc",
 	"ingredients": [
 		"minecraft:magma_block"
@@ -110,6 +111,7 @@ This file contains JSON files that define the recipes for the `unpackable` for M
 ```json
 {
 	"type": "minecraft:crafting_shapeless",
+	"group": "packed_ice",
 	"category": "building",
 	"ingredients": [
 		"minecraft:blue_ice"
@@ -152,7 +154,7 @@ This file contains JSON files that define the recipes for the `unpackable` for M
 ```json
 {
 	"type": "minecraft:crafting_shapeless",
-	"group": "mushroom",
+	"group": "item_mushroom",
 	"category": "misc",
 	"ingredients": [
 		"minecraft:red_mushroom_block"

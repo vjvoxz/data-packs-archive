@@ -142,7 +142,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "blackstone_assembled",
+	"group": "blackstone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -196,6 +196,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -267,6 +268,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "cinnabar_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -284,6 +286,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "cinnabar",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -301,6 +304,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "cobbled_deepslate",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -318,6 +322,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "cobblestone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -353,6 +358,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "cut_copper",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -370,6 +376,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "cut_red_sandstone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -387,6 +394,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "cut_sandstone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -458,6 +466,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "dark_prismarine",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -475,6 +484,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "deepslate_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -492,6 +502,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "deepslate_tile",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -509,6 +520,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "diorite",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -526,6 +538,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "end_stone_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -543,6 +556,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "exposed_cut_copper",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -560,6 +574,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "granite",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -865,6 +880,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "mud_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -882,6 +898,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "nether_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -953,6 +970,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "oxidized_cut_copper",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1024,6 +1042,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_andesite",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1041,6 +1060,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_blackstone_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1058,6 +1078,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_blackstone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1075,6 +1096,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_cinnabar",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1092,6 +1114,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_deepslate",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1109,6 +1132,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_diorite",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1126,6 +1150,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_granite",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1143,6 +1168,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_sulfur",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1160,6 +1186,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "polished_tuff",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1195,6 +1222,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "prismarine_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1212,6 +1240,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "prismarine",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1265,6 +1294,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "purpur",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1282,6 +1312,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "quartz_block",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1317,6 +1348,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "red_nether_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1334,6 +1366,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "red_sandstone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1369,6 +1402,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "resin_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1386,6 +1420,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "sandstone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1403,6 +1438,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "smooth_quartz",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1420,6 +1456,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "smooth_red_sandstone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1437,6 +1474,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "smooth_sandstone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1454,6 +1492,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "smooth_stone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1489,6 +1528,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "stone_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1506,6 +1546,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "stone",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1523,6 +1564,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "sulfur_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1540,6 +1582,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "sulfur",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1557,6 +1600,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "tuff_bricks",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1574,6 +1618,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "tuff",
 	"category": "building",
 	"pattern": [
 		"##"
@@ -1681,6 +1726,7 @@ This file contains JSON files that define the recipes for the `block_from_slabs`
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "weathered_cut_copper",
 	"category": "building",
 	"pattern": [
 		"##"

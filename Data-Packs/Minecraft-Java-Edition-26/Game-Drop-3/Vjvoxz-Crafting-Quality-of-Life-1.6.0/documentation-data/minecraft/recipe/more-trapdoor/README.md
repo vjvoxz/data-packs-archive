@@ -15,7 +15,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:acacia_trapdoor"
 	}
 }
@@ -34,7 +34,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:bamboo_trapdoor"
 	}
 }
@@ -53,7 +53,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:birch_trapdoor"
 	}
 }
@@ -72,7 +72,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:cherry_trapdoor"
 	}
 }
@@ -91,7 +91,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:crimson_trapdoor"
 	}
 }
@@ -110,7 +110,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:dark_oak_trapdoor"
 	}
 }
@@ -129,7 +129,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:jungle_trapdoor"
 	}
 }
@@ -148,7 +148,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:mangrove_trapdoor"
 	}
 }
@@ -167,7 +167,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:oak_trapdoor"
 	}
 }
@@ -186,7 +186,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:pale_oak_trapdoor"
 	}
 }
@@ -205,7 +205,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:poplar_trapdoor"
 	}
 }
@@ -224,7 +224,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:spruce_trapdoor"
 	}
 }
@@ -243,7 +243,7 @@ This file contains JSON files that define the recipes for the `more_trapdoors` f
 		"###"
 	],
 	"result": {
-		"count": 12,
+		"count": 6,
 		"id": "minecraft:warped_trapdoor"
 	}
 }

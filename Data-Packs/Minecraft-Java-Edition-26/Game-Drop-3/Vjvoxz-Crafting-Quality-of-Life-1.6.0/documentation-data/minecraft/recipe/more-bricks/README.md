@@ -5,6 +5,7 @@ This file contains JSON files that define the recipes for the `more_bricks` for 
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "bricks",
 	"category": "building",
 	"key": {
 		"#": "minecraft:brick"
@@ -23,6 +24,7 @@ This file contains JSON files that define the recipes for the `more_bricks` for 
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "nether_bricks",
 	"category": "building",
 	"key": {
 		"#": "minecraft:nether_brick"
@@ -41,6 +43,7 @@ This file contains JSON files that define the recipes for the `more_bricks` for 
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "red_nether_bricks",
 	"category": "building",
 	"key": {
 		"N": "minecraft:nether_brick",
@@ -60,6 +63,7 @@ This file contains JSON files that define the recipes for the `more_bricks` for 
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "red_sandstone",
 	"category": "building",
 	"key": {
 		"#": "minecraft:red_sand"
@@ -78,6 +82,7 @@ This file contains JSON files that define the recipes for the `more_bricks` for 
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "resin_bricks",
 	"category": "building",
 	"key": {
 		"#": "minecraft:resin_brick"
@@ -96,6 +101,7 @@ This file contains JSON files that define the recipes for the `more_bricks` for 
 ```json
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "sandstone",
 	"category": "building",
 	"key": {
 		"#": "minecraft:sand"
