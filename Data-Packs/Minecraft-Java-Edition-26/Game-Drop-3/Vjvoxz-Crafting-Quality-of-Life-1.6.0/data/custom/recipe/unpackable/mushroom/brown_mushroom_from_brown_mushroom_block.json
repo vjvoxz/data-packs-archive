@@ -1,6 +1,6 @@
 {
 	"type": "minecraft:crafting_shapeless",
-	"group": "mushroom",
+	"group": "item_mushroom",
 	"category": "misc",
 	"ingredients": [
 		"minecraft:brown_mushroom_block"

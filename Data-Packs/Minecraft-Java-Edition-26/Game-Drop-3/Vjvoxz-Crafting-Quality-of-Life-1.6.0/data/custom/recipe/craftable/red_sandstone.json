@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shapeless",
+	"group": "red_sandstone",
 	"category": "building",
 	"ingredients": [
 		"minecraft:sandstone",
