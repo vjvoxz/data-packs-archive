@@ -1,13 +1,14 @@
-# Crafting Quality of Life: Universal Dyeing Terracotta
-This file contains JSON files that define the recipes for the `universal_dyeing_terracotta` for Minecraft Java Edition 26.3.
+# Crafting Quality of Life: Universal Dyeing Concrete
+This file contains JSON files that define the recipes for the `universal_dyeing_concrete` for  Minecraft Java Edition 26.3.
 
-**Group**: ud_terracotta
+**Group**: 
+- ud_concrete
 
-## Universal Dyeing Black Terracotta
+## Universal Dyeing Black Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -16,19 +17,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:black_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:black_terracotta",
+		"id": "minecraft:black_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Blue Terracotta
+## Universal Dyeing Blue Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -37,19 +38,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:blue_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:blue_terracotta",
+		"id": "minecraft:blue_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Brown Terracotta
+## Universal Dyeing Brown Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -58,19 +59,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:brown_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:brown_terracotta",
+		"id": "minecraft:brown_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Cyan Terracotta
+## Universal Dyeing Cyan Dye
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -79,19 +80,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:cyan_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:cyan_terracotta",
+		"id": "minecraft:cyan_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Gray Terracotta
+## Universal Dyeing Gray Dye
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -100,19 +101,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:gray_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:gray_terracotta",
+		"id": "minecraft:gray_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Green Terracotta
+## Universal Dyeing Green Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -121,19 +122,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:green_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:green_terracotta",
+		"id": "minecraft:green_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Light Blue Terracotta
+## Universal Dyeing Light Blue Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -142,19 +143,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:light_blue_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:light_blue_terracotta",
+		"id": "minecraft:light_blue_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Light Gray Terracotta
+## Universal Dyeing Light Gray Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -163,19 +164,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:light_gray_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:light_gray_terracotta",
+		"id": "minecraft:light_gray_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Lime Terracotta
+## Universal Dyeing Lime Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -184,19 +185,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:lime_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:lime_terracotta",
+		"id": "minecraft:lime_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Magenta Terracotta
+## Universal Dyeing Magenta Dye
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -205,19 +206,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:magenta_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:magenta_terracotta",
+		"id": "minecraft:magenta_concrete",
 		"count": 8
-    }
+	}
 }
 ```
-## Universal Dyeing Orange Terracotta
+## Universal Dyeing Orange Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -226,19 +227,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:orange_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:orange_terracotta",
+		"id": "minecraft:orange_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Pink Terracotta
+## Universal Dyeing Pink Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -247,19 +248,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:pink_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:pink_terracotta",
+		"id": "minecraft:pink_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Purple Terracotta
+## Universal Dyeing Purple Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -268,19 +269,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:purple_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:purple_terracotta",
+		"id": "minecraft:purple_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Red Terracotta
+## Universal Dyeing Red Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -289,19 +290,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:red_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:red_terracotta",
+		"id": "minecraft:red_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing White Terracotta
+## Universal Dyeing White Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -310,19 +311,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:white_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:white_terracotta",
+		"id": "minecraft:white_concrete",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Yellow Terracotta
+## Universal Dyeing Yellow Concrete
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_terracotta",
+	"group": "ud_concrete",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -331,10 +332,10 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:yellow_dye",
-		"#": "#minecraft:terracotta"
+		"#": "#minecraft:concrete"
 	},
 	"result": {
-		"id": "minecraft:yellow_terracotta",
+		"id": "minecraft:yellow_concrete",
 		"count": 8
 	}
 }

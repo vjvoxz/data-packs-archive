@@ -1,13 +1,14 @@
-# Crafting Quality of Life: Universal Dyeing Glazed Terracotta
-This file contains JSON files that define the recipes for the `universal_dyeing_glazed_terracotta` for Minecraft Java Edition 26.3.
+# Crafting Quality of Life: Universal Dyeing Stained Glass
+This file contains JSON files that define the recipes for the `universal_dyeing_stained_glass` for Minecraft Java Edition 26.3.
 
-**Group**: ud_glazed_terracotta
+**Group**: 
+- ud_stained_glass
 
-## Universal Dyeing Black Glazed Terracotta
+## Universal Dyeing Black Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -16,19 +17,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:black_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:black_glazed_terracotta",
+		"id": "minecraft:black_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Blue Glazed Terracotta
+## Universal Dyeing Blue Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -37,19 +38,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:blue_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:blue_glazed_terracotta",
+		"id": "minecraft:blue_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Brown Glazed Terracotta
+## Universal Dyeing Brown Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -58,19 +59,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:brown_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:brown_glazed_terracotta",
+		"id": "minecraft:brown_stained_glass",
 		"count": 8
-    }
+	}
 }
 ```
-## Universal Dyeing Cyan Glazed Terracotta
+## Universal Dyeing Cyan Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -79,19 +80,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:cyan_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:cyan_glazed_terracotta",
+		"id": "minecraft:cyan_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Gray Glazed Terracotta
+## Universal Dyeing Gray Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -100,19 +101,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:gray_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:gray_glazed_terracotta",
+		"id": "minecraft:gray_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Green Glazed Terracotta
+## Universal Dyeing Green Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -121,19 +122,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:green_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:green_glazed_terracotta",
+		"id": "minecraft:green_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Light Blue Glazed Terracotta
+## Universal Dyeing Light Blue Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -142,19 +143,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:light_blue_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:light_blue_glazed_terracotta",
+		"id": "minecraft:light_blue_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Light Gray Glazed Terracotta
+## Universal Dyeing Light Gray Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -163,19 +164,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:light_gray_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:light_gray_glazed_terracotta",
+		"id": "minecraft:light_gray_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Lime Glazed Terracotta
+## Universal Dyeing Lime Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -184,19 +185,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:lime_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:lime_glazed_terracotta",
+		"id": "minecraft:lime_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Magenta Glazed Terracotta
+## Universal Dyeing Magenta Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -205,19 +206,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:magenta_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:magenta_glazed_terracotta",
+		"id": "minecraft:magenta_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Orange Glazed Terracotta
+## Universal Dyeing Orange Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -226,19 +227,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:orange_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:orange_glazed_terracotta",
+		"id": "minecraft:orange_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Pink Glazed Terracotta
+## Universal Dyeing Pink Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -247,19 +248,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:pink_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:pink_glazed_terracotta",
+		"id": "minecraft:pink_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Purple Glazed Terracotta
+## Universal Dyeing Purple Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -268,19 +269,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:purple_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:purple_glazed_terracotta",
+		"id": "minecraft:purple_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Red Glazed Terracotta
+## Universal Dyeing Red Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -289,19 +290,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:red_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:red_glazed_terracotta",
+		"id": "minecraft:red_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing White Glazed Terracotta
+## Universal Dyeing White Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -310,19 +311,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:white_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:white_glazed_terracotta",
+		"id": "minecraft:white_stained_glass",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Yellow Glazed Terracotta
+## Universal Dyeing Yellow Stained Glass
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_glazed_terracotta",
+	"group": "ud_stained_glass",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -331,10 +332,10 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:yellow_dye",
-		"#": "#minecraft:glazed_terracotta"
+		"#": "#minecraft:stained_glass"
 	},
 	"result": {
-		"id": "minecraft:yellow_glazed_terracotta",
+		"id": "minecraft:yellow_stained_glass",
 		"count": 8
 	}
 }

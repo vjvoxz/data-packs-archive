@@ -5,6 +5,9 @@ This file contains JSON files that define the recipes for the `craftable` for Mi
 - boneblock
 - coral_blocks
 - nylium
+- anvil
+- dirt
+- 
 
 ## Bone Block
 ```json

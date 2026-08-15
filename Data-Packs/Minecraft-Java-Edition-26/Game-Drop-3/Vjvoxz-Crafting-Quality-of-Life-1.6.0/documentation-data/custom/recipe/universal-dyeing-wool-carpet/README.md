@@ -1,13 +1,14 @@
-# Crafting Quality of Life: Universal Dyeing Concrete
-This file contains JSON files that define the recipes for the `universal_dyeing_concrete` for  Minecraft Java Edition 26.3.
+# Crafting Quality of Life: Universal Dyeing Wool Carpet
+This file contains JSON files that define the recipes for the `universal_dyeing_wool_carpet` for Minecraft Java Edition 26.3.
 
-**Group**: ud_concrete
+**Groups**:
+- ud_carpet
 
-## Universal Dyeing Black Concrete
+## Black Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -16,19 +17,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:black_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:black_concrete",
+		"id": "minecraft:black_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Blue Concrete
+## Blue Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -37,19 +38,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:blue_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:blue_concrete",
+		"id": "minecraft:blue_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Brown Concrete
+## Brown Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -58,19 +59,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:brown_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:brown_concrete",
+		"id": "minecraft:brown_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Cyan Dye
+## Cyan Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -79,19 +80,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:cyan_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:cyan_concrete",
+		"id": "minecraft:cyan_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Gray Dye
+## Gray Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -100,19 +101,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:gray_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:gray_concrete",
+		"id": "minecraft:gray_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Green Concrete
+## Green Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -121,19 +122,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:green_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:green_concrete",
+		"id": "minecraft:green_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Light Blue Concrete
+## Light Blue Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -142,19 +143,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:light_blue_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:light_blue_concrete",
+		"id": "minecraft:light_blue_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Light Gray Concrete
+## Light Gray Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -163,19 +164,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:light_gray_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:light_gray_concrete",
+		"id": "minecraft:light_gray_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Lime Concrete
+## Lime Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -184,19 +185,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:lime_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:lime_concrete",
+		"id": "minecraft:lime_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Magenta Dye
+## Magenta Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -205,19 +206,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:magenta_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:magenta_concrete",
+		"id": "minecraft:magenta_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Orange Concrete
+## Orange Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -226,19 +227,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:orange_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:orange_concrete",
+		"id": "minecraft:orange_carpet",
 		"count": 8
 	}
-}
+}    
 ```
-## Universal Dyeing Pink Concrete
+## Pink Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -247,19 +248,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:pink_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:pink_concrete",
+		"id": "minecraft:pink_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Purple Concrete
+## Purple Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -268,19 +269,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:purple_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:purple_concrete",
+		"id": "minecraft:purple_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Red Concrete
+## Red Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -289,19 +290,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:red_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:red_concrete",
+		"id": "minecraft:red_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing White Concrete
+## White Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -310,19 +311,19 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:white_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:white_concrete",
+		"id": "minecraft:white_carpet",
 		"count": 8
 	}
 }
 ```
-## Universal Dyeing Yellow Concrete
+## Yellow Wool Carpet
 ```json
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "ud_concrete",
+	"group": "ud_carpet",
 	"category": "building",
 	"pattern": [
 		"###",
@@ -331,10 +332,10 @@ This file contains JSON files that define the recipes for the `universal_dyeing_
 	],
 	"key": {
 		"D": "minecraft:yellow_dye",
-		"#": "#minecraft:concrete"
+		"#": "#minecraft:wool_carpets"
 	},
 	"result": {
-		"id": "minecraft:yellow_concrete",
+		"id": "minecraft:yellow_carpet",
 		"count": 8
 	}
 }
