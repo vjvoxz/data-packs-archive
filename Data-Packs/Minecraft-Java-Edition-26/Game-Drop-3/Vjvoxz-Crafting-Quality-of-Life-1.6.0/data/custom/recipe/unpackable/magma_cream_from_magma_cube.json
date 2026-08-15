@@ -1,5 +1,6 @@
 {
 	"type": "minecraft:crafting_shapeless",
+	"group": "magma_cream",
 	"category": "misc",
 	"ingredients": [
 		"minecraft:magma_block"
