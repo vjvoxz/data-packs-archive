@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cinnabar_bricks",
+	"category": "building",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cinnabar_brick_stairs"
+	},
+	"result": {
+		"id": "minecraft:cinnabar_bricks",
+		"count": 3
+	}
+}

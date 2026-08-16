@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "quartz_block",
+	"category": "building",
+	"key": {
+		"#": "minecraft:quartz"
+	},
+	"pattern": [
+		"##",
+		"##"
+	],
+	"result": {
+		"count": 4,
+		"id": "minecraft:quartz_block"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "ud_wool",
+	"category": "building",
+	"pattern": [
+		"###",
+		"#D#",
+		"###"
+	],
+	"key": {
+		"D": "minecraft:lime_dye",
+		"#": "#minecraft:wool"
+	},
+	"result": {
+		"id": "minecraft:lime_wool",
+		"count": 8
+	}
+}
