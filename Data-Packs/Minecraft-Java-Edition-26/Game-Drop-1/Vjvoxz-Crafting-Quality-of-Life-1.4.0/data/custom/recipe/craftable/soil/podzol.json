@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dirt",
+	"category": "building",
+	"pattern": [
+		"###",
+		"DDD",
+		"DDD"
+	],
+	"key": {
+		"#": "minecraft:spruce_leaves",
+		"D": "minecraft:dirt"
+	},
+	"result": {
+		"id": "minecraft:podzol",
+		"count": 6
+	}
+}
